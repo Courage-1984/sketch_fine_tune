@@ -1,0 +1,7 @@
+transformers>=4.20.0
+datasets>=2.0.0
+evaluate
+numpy<2
+scikit-learn
+setuptools
+certify
